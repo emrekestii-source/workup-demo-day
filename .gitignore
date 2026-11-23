@@ -1,0 +1,13 @@
+# Bagimliliklar
+node_modules/
+
+# build.mjs her calistiginda yeniden yazilan ara HTML dosyalari. Teslim edilen dosyalar out/ altinda.
+src/
+
+# Gecici deneme klasorleri
+_wordtest/
+_*-tmp.*
+
+# Isletim sistemi
+Thumbs.db
+.DS_Store
